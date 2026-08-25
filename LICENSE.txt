@@ -2,7 +2,7 @@
                        MODPACK / CLIENT LICENSE & DISCLAIMER
 ===============================================================================
 Licensing Standard: CC0 1.0 Universal (Public Domain / Unlicense)
-Target Platform: Modrinth 
+Target Platform: Modrinth, GitHub 
 -------------------------------------------------------------------------------
 1. ITALIANO (Italian)
 -------------------------------------------------------------------------------
