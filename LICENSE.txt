@@ -1,0 +1,89 @@
+===============================================================================
+                       MODPACK / CLIENT LICENSE & DISCLAIMER
+===============================================================================
+Licensing Standard: CC0 1.0 Universal (Public Domain / Unlicense)
+Target Platform: Modrinth 
+-------------------------------------------------------------------------------
+1. ITALIANO (Italian)
+-------------------------------------------------------------------------------
+1. DIRITTI D'AUTORE E PROPRIETÀ INTELETTUALE
+Questo modpack / client è stato creato per puro divertimento e svago. L'autore 
+di questo pacchetto NON vanta alcun diritto di proprietà o copyright su mod, 
+shader, texture pack, API o risorse incluse. Tutti i diritti appartengono ai 
+rispettivi sviluppatori originali (tra cui, a titolo esemplificativo: 
+Sodium, Iris Shaders, Essential Mod, Xaero's Maps, Fabric API, Complementary Shaders, ecc.).
+
+2. PERMESSI E LICENZA D'USO
+Questo progetto è rilasciato sotto pubblico dominio tramite licenza CC0 1.0 Universal / Unlicense. 
+Sei libero di scaricare, distribuire, modificare, riutilizzare o includere questo 
+pacchetto in altri progetti senza richiedere alcuna autorizzazione previa e 
+senza obbligo di crediti.
+
+3. ESCLUSIONE DI RESPONSABILITÀ (DISCLAIMER)
+Il pacchetto viene fornito "così com'è" (AS IS), senza alcuna garanzia implicita 
+o esplicita di funzionamento, stabilità o compatibilità. L'autore non potrà in 
+alcun caso essere ritenuto responsabile per eventuali danni, perdita di dati, 
+crash del gioco o malfunzionamenti derivanti dall'installazione o dall'utilizzo 
+di questo pacchetto.
+
+
+-------------------------------------------------------------------------------
+2. ENGLISH
+-------------------------------------------------------------------------------
+1. COPYRIGHT AND INTELLECTUAL PROPERTY
+This modpack / client was created for fun and entertainment purposes. The author 
+of this pack claims NO ownership, copyright, or intellectual property rights 
+over any of the bundled individual components, mods, shaders, texture packs, 
+or APIs. All rights belong strictly to their respective original authors and 
+developers (including but not limited to: Sodium, Iris Shaders, Essential Mod, 
+Xaero's Maps, Fabric API, Complementary Shaders, etc.).
+
+2. PERMISSIONS AND LICENSING
+This work is released into the public domain under the CC0 1.0 Universal / Unlicense 
+terms. You are free to copy, modify, distribute, perform, or adapt this project 
+for any purpose, commercial or non-commercial, without asking permission or 
+providing mandatory attribution.
+
+3. DISCLAIMER OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE 
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS MODPACK.
+
+
+-------------------------------------------------------------------------------
+3. ESPAÑOL (Spanish)
+-------------------------------------------------------------------------------
+1. DERECHOS DE AUTOR Y PROPIEDAD INTELECTUAL
+Este modpack / cliente fue creado por entretenimiento. El autor no reclama ningún 
+tipo de propiedad intelectual ni derechos de autor sobre las mods, shaders, 
+paquetes de texturas o recursos incluidos. Todos los derechos pertenecen a sus 
+respectivos creadores originales.
+
+2. LICENCIA Y PERMISOS
+Este proyecto se publica bajo la licencia de dominio público CC0 1.0 Universal / Unlicense. 
+Tienes libertad absoluta para descargar, modificar, redistribuir y utilizar este 
+contenido como desees.
+
+3. EXENCIÓN DE RESPONSABILIDAD
+El contenido se proporciona "tal cual" (AS IS), sin garantías de ningún tipo. 
+El autor no se hace responsable de fallos, pérdidas de datos o daños derivados 
+del uso de este paquete.
+
+
+-------------------------------------------------------------------------------
+4. DEUTSCH (German)
+-------------------------------------------------------------------------------
+1. URHEBERRECHT UND EIGENTUM
+Dieses Modpack / dieser Client wurde zum Spaß erstellt. Der Autor erhebt keinerlei 
+Anspruch auf Urheberrechte an den enthaltenen Mods, Shaders oder Ressourcen. 
+Alle Rechte liegen bei den jeweiligen Entwicklern.
+
+2. LIZENZ UND NUTZUNG
+Dieses Projekt steht unter der gemeinfreien Lizenz CC0 1.0 Universal / Unlicense. 
+Sie können das Paket frei herunterladen, verändern und weiterverbreiten.
+
+3. HAFTUNGSAUSSCHLUSS
+Die Software wird "wie besehen" (AS IS) bereitgestellt, ohne jegliche ausdrückliche 
+oder implizite Garantie. Der Autor haftet nicht für etwaige Schäden oder Datenverluste.
+=============================================================================== 
